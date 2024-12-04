@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="[your-image-url](https://github.com/user-attachments/assets/40bdfc03-f48d-4069-a3ee-9e8d1e507400)" alt="Description of image" width="300">
+  <img src="(https://github.com/user-attachments/assets/40bdfc03-f48d-4069-a3ee-9e8d1e507400)" alt="Description of image" width="300">
 </p>
 
 
